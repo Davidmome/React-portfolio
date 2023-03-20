@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-portfolio/static/css/main.541a92ab.css",
+    "main.js": "/React-portfolio/static/js/main.ab390f21.js",
+    "static/js/787.28cb0dcd.chunk.js": "/React-portfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Clima.PNG": "/React-portfolio/static/media/Clima.d712590bdbcf094d5846.PNG",
+    "static/media/Comercio.png": "/React-portfolio/static/media/Comercio.f438908fd8ed59075041.png",
+    "static/media/Social.png": "/React-portfolio/static/media/Social.2b2e5d2d72ef7f582b1d.png",
+    "static/media/Acceso.png": "/React-portfolio/static/media/Acceso.4e3ca11facf4d22b7fcf.png",
+    "static/media/foto.jpg": "/React-portfolio/static/media/foto.6d6755dfe5d9e05bfabe.jpg",
+    "static/media/Contrasena.PNG": "/React-portfolio/static/media/Contrasena.0e66e3dd0f3c990d4543.PNG",
+    "static/media/Notepad.PNG": "/React-portfolio/static/media/Notepad.4616285500925ebf42a6.PNG",
+    "index.html": "/React-portfolio/index.html",
+    "main.541a92ab.css.map": "/React-portfolio/static/css/main.541a92ab.css.map",
+    "main.ab390f21.js.map": "/React-portfolio/static/js/main.ab390f21.js.map",
+    "787.28cb0dcd.chunk.js.map": "/React-portfolio/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.541a92ab.css",
+    "static/js/main.ab390f21.js"
+  ]
+}
